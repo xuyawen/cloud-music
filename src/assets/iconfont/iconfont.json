@@ -1,0 +1,30 @@
+{
+  "id": "1592559",
+  "name": "cloud-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9047450",
+      "name": "daohang",
+      "font_class": "daohang",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "10267591",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10334042",
+      "name": "bofang",
+      "font_class": "bofang",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
